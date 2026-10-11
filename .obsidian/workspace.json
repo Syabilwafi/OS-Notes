@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "a2f1d0a56d527cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "37d9cf4529a44a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac67e4724a3c1364",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System Map of Content (MOC).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Operating System Map of Content (MOC)"
+            }
+          },
+          {
+            "id": "fc9764aa582dcb94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Materials/week01-ch1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "week01-ch1"
+            }
+          },
+          {
+            "id": "2bdbaa1af2db68e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS Modules/01 - Introduction & Operating System Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Introduction & Operating System Structure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be93825bef0b8411",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b6dcc950dec383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d2b92f48da7901b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db5e98a2636d4e86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5bf68b1cf99f1f5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "816b0e288cc186ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f3065c2e07a9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e50de3d023d65d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating System Map of Content (MOC).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e95db292c6425ba8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating System Map of Content (MOC).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dd5ed01a2eb94fb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30ed466cd8d4b544",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f1dfee5bd61fe72b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating System Map of Content (MOC).md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ac67e4724a3c1364",
+  "lastOpenFiles": [
+    "OS Modules/01 - Introduction & Operating System Structure.md",
+    "Materials/week01-ch1.pdf",
+    "Operating System Map of Content (MOC).md",
+    "Materials/Solusi - Latihan Fork.pdf",
+    "Glossary.md",
+    "Notes Media/Interrupt Timeline.png",
+    "Materials/pembahasan-mlfq.pdf",
+    "Materials/ch5.pdf",
+    "Materials/Review Menjelang UTS.pdf",
+    "Materials/20261 - Week 4 - Session 8 - Synchronization-1.pdf",
+    "Materials/20261 - Week 4 - Session 8 - Synchronization-1.pptx",
+    "Materials/ch4.pdf",
+    "Materials/ch2.pdf",
+    "Materials/ch3.pdf",
+    "OS Modules/02 - Virtualization & Shell Scripts.md",
+    "OS Modules/06 - CPU Scheduling.md",
+    "OS Modules/05 - Synchronization & Deadlock.md",
+    "OS Modules/03 - C Languages & Processes.md",
+    "OS Modules/04 - Threads & Concurrency.md",
+    "Untitled.md",
+    "Computer System Architectures & Computing Environments.md",
+    "Glossary Terms/Word.md",
+    "Glossary Terms/Direct Memory Access (DMA).md",
+    "Glossary Terms/Device Controller.md",
+    "Glossary Terms/Untitled.md",
+    "Glossary Terms/Device Driver.md",
+    "Glossary Terms/Virtual Machine Manager (VMM).md",
+    "Glossary Terms/Volatile Storage.md",
+    "Glossary Terms/Virtual Memory.md",
+    "Glossary Terms/User Mode.md",
+    "Glossary Terms/Trap (Exception).md",
+    "Glossary Terms/Timer.md",
+    "Glossary Terms/System Call.md",
+    "Glossary Terms/Symmetric Multiprocessing (SMP).md",
+    "Glossary Terms/Storage-Area Network (SAN).md",
+    "Glossary Terms/Software as a Service (SaaS).md",
+    "Untitled.canvas",
+    "Pasted image 20260831200321.png"
+  ]
+}
